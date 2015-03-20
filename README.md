@@ -7,6 +7,7 @@ See [here](https://github.com/duncdrum/wsc-data/wiki/ "WSC Wiki") on how to use 
 Changelog:
 
 Version 1.0.8 - 2015.03.20
+
 1. The framework was renamed to nerwsc, and the codebase was moved to github at https://github.com/claudius108/nerwsc.
 2. The update site url is now https://raw.githubusercontent.com/claudius108/nerwsc/master/target/addon.xml.
 
