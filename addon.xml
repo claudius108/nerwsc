@@ -3,7 +3,7 @@
 <xt:extensions xmlns:xt="http://www.oxygenxml.com/ns/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
 	<xt:extension id="ner-framework">
-		<xt:location href="http://claudius108.users.sourceforge.net/repos/ner/ner.jar" />
+		<xt:location href="http://claudius108.users.sourceforge.net/repos/ner/nerwsc.jar" />
 		<xt:version>${project.version}</xt:version>
 		<xt:oxy_version>16.1+</xt:oxy_version>
 		<xt:type>framework</xt:type>
