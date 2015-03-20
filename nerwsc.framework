@@ -8,7 +8,7 @@
 						<null/>
 					</field>
 					<field name="name">
-						<String>ner</String>
+						<String>nerwsc</String>
 					</field>
 					<field name="schemaDescriptor">
 						<null/>
@@ -40,7 +40,7 @@
 									</cssFile>
 									<cssFile>
 										<field name="href">
-											<String>${framework}/resources/css/nerWSC.css</String>
+											<String>${framework}/resources/css/nerwsc.css</String>
 										</field>
 										<field name="title">
 											<String/>
@@ -152,7 +152,7 @@
 							<field name="customReferencesResolver">
 								<null/>
 							</field>
-							<field name="authorExtensionStateListener"><String>ner.AuthorExtensionStateListener</String><String>ner.AuthorExtensionStateListener</String><String>ner.AuthorExtensionStateListener</String></field>
+							<field name="authorExtensionStateListener"><String>nerwsc.AuthorExtensionStateListener</String><String>nerwsc.AuthorExtensionStateListener</String><String>nerwsc.AuthorExtensionStateListener</String></field>
 							<field name="attributesRecognizer">
 								<null/>
 							</field>
@@ -209,7 +209,7 @@
 					<field name="defaultTransformationScenarios">
 						<null/>
 					</field>
-					<field name="extensionsBundleClassName"><String>ner.ExtensionsBundle</String><String>ner.ExtensionsBundle</String><String>ner.ExtensionsBundle</String></field>
+					<field name="extensionsBundleClassName"><String>nerwsc.ExtensionsBundle</String><String>nerwsc.ExtensionsBundle</String><String>nerwsc.ExtensionsBundle</String></field>
 					<field name="useImposedInitialPage">
 						<Boolean>true</Boolean>
 					</field>
