@@ -1,0 +1,32 @@
+teiHeader {
+  display: none;
+}
+
+person > * {
+    display: none;
+}
+person > note {
+  display: block;
+  margin-top: 30px;
+}
+
+persName {
+    background-color: orange;
+}
+  
+placeName {
+    background-color: aqua;
+}
+
+orgName {
+    background-color: yellow;
+}
+
+date {
+    background-color: teal;
+}
+
+note:before {
+    font-weight: bold;
+    background-color: #F1F8E0;
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <!--   the header needs more info  [DP]-->
+      <fileDesc>
+         <titleStmt>
+            <title>WSC person data</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Yet unpublished data</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Extract of person data from Filemaker database, Mar 03 2015</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2015-03-11" who="DP">added NER to note elements</change>
+         <change when="2015-03-09" who="DP">activated links</change>
+         <change when="2015-03-04" who="DP">trimmed empty elements</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="uuid-98df54df-9421-403f-8c33-497cf2ab8f1f" ana="historical">
+               <persName type="unspecified" n="Bio2">
+                  <persName xml:lang="zh-Hant">奧斯彭</persName>
+                  <persName xml:lang="zh-alalc97">Aosipeng</persName>
+               </persName>
+               <sex value="0">n</sex>
+               <note type="placeOfOrigin">
+                  <placeName>USA</placeName>
+               </note>
+               <note>
+                  <p>maybe <persName>Henry Fairfield Osborn</persName>, 1857-1935, scientist (natural sciences,
+                     biology/zoology, vertebrate paleontology, pure sciences)</p>
+                  <p>professor at <orgName>Princeton University</orgName>, <orgName>Columbia University</orgName>, <orgName>American Museum of
+                     Natural History</orgName> (AMNH), see
+                     <ref target="http://people.wku.edu/charles.smith/chronob/OSBO1857.htm"/>
+                  </p>
+                  <p>biblio of Osborn: <ref target="http://www.archive.org/stream/cu31924029640426"/>; secondary
+                     literature Sterling, Biographical dictionary of American and Canadian
+                     naturalists and environmentalists, p. 592-596</p>
+               </note>
+               <listBibl type="referenceWorks">
+                  <bibl>
+                     <idno>uuid-18e35dd4-ee2f-494d-8374-dc5bb42fcc03</idno>
+                     <biblScope unit="pp">12344</biblScope>
+                  </bibl>
+                  <bibl>
+                     <idno>uuid-61c33a02-d762-4807-8187-e3ef4f7ad040</idno>
+                  </bibl>
+               </listBibl>
+               <listBibl type="participatedWorks">
+                  <bibl>
+                     <idno>uuid-61c33a02-d762-4807-8187-e3ef4f7ad040</idno>
+                     <title>
+                        <title xml:lang="zh-alalc97">Kuangxue kaozhi</title>
+                        <title xml:lang="zh-Hant">礦學考質</title>
+                     </title>
+                     <author>Bio2</author>
+                  </bibl>
+                  <bibl>Kuangxue kaozhi</bibl>
+               </listBibl>
+            </person>
+            
+         </listPerson>
+      </body>
+   </text>
+</TEI>
+
