@@ -40,7 +40,7 @@
 									</cssFile>
 									<cssFile>
 										<field name="href">
-											<String>${framework}/resources/css/ner.css</String>
+											<String>${framework}/resources/css/nerWSC.css</String>
 										</field>
 										<field name="title">
 											<String/>
