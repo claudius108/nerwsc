@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet href="/home/claudius/.com.oxygenxml.author/extensions/v16.1/plugins/http___claudius108.users.sourceforge.net_repos_addon_builder_plugin_addon.xml/addon-builder-plugin/templates/css/addon-descriptor.css" type="text/css"?> -->
+<xt:extensions xmlns:xt="http://www.oxygenxml.com/ns/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
+	<xt:extension id="ner-framework">
+		<xt:location href="http://claudius108.users.sourceforge.net/repos/ner/nerwsc.jar" />
+		<xt:version>1.0.8</xt:version>
+		<xt:oxy_version>16.1+</xt:oxy_version>
+		<xt:type>framework</xt:type>
+		<xt:author>Kaja Mueller-Wang, Duncan Paterson, Claudius Teodorescu</xt:author>
+		<xt:name>nerwsc framework</xt:name>
+		<xt:description xmlns="http://www.w3.org/1999/xhtml"></xt:description>
+		<xt:license>END USER LICENSE AGREEMENT</xt:license>
+	</xt:extension>
+</xt:extensions>
