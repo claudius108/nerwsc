@@ -1,10 +1,20 @@
 # nerwsc
 
+## Description
+
 This is an Oxygen Author framework made by using the [Oxygen Addon Builder](http://kuberam.ro/oxygen-addon-builder/ "Oxygen Addon Builder"), for the use of the project [Wissenschaftssprache Chinesisch (WSC) of the Cluster of Excellence Asia and Europe](http://kjc-sv016.kjc.uni-heidelberg.de:8080/exist/apps/wsc/modules/search/aboutus.html "Wissenschaftssprache Chinesisch").
 
+## Scope
+
+The scope of this framework is to allow users to proofread *placeName*, *persName*, *orgName*, and *date* elements in TEI files.
+
+Actions the user is able to take:
+
+
+  
 See [here](https://github.com/duncdrum/wsc-data/wiki/ "WSC Wiki") on how to use this framework.
 
-Changelog:
+## Changelog:
 
 **Version 1.0.8 - 2015.03.20**
 
