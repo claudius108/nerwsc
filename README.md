@@ -6,13 +6,29 @@ This is an Oxygen Author framework made by using the [Oxygen Addon Builder](http
 
 ## Scope
 
-The scope of this framework is to allow users to proofread *placeName*, *persName*, *orgName*, and *date* elements in TEI files.
+The scope of this framework is to allow users to proofread *placeName*, *persName*, *orgName*, and *date* TEI elements as descendants of *note* TEI elements. The proofreading is done using Oxygen Author View.
 
-Actions the user is able to take:
+Actions on the *placeName*, *persName*, *orgName*, and *date* elements the user is able to take:
+* changing any element to any of the other elements;
+* deleting any element;
+* wrapping of an arbitrary text content in any of these elements.
+ 
+## User interface
+
+Only the *note* elements and their contents are displayed.
+
+Each of the *placeName*, *persName*, *orgName*, and *date* TEI elements has buttons for replacing with any of the others and a delete button.
+
+The buttons for wrapping the selection of text are located at the beginning of the respective *note* element.
+
+The tags for elements are not displayed, in order to have a simple user interface.
+
+The users cannot switch to Page view.
+
+![nerwsc screenshot](/resources/images/screenshot.png)
 
 
   
-See [here](https://github.com/duncdrum/wsc-data/wiki/ "WSC Wiki") on how to use this framework.
 
 ## Changelog:
 
