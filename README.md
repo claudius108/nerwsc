@@ -28,6 +28,9 @@ The users cannot switch to Page view.
 ![nerwsc screenshot](/resources/images/screenshot.png)
 
 
+## Icons
+
+The icons used were created by Matt Gentile from http://www.icondeposit.com/.
   
 
 ## Changelog:
