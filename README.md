@@ -4,7 +4,7 @@
 
 This is an Oxygen Author framework made by using the [Oxygen Addon Builder](http://kuberam.ro/oxygen-addon-builder/ "Oxygen Addon Builder"), for the use of the project [Wissenschaftssprache Chinesisch (WSC) of the Cluster of Excellence Asia and Europe](http://kjc-sv016.kjc.uni-heidelberg.de:8080/exist/apps/wsc/modules/search/aboutus.html "Wissenschaftssprache Chinesisch").
 
-The update site url is [https://raw.githubusercontent.com/claudius108/nerwsc/master/target/addon.xml](https://raw.githubusercontent.com/claudius108/nerwsc/master/target/addon.xml "nerwsc framework").
+The update site url is [https://github.com/claudius108/nerwsc/raw/master/target/addon.xml](https://github.com/claudius108/nerwsc/raw/master/target/addon.xml "nerwsc framework").
 
 ## Scope
 
